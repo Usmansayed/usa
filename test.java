@@ -1,4 +1,4 @@
-package pk1;
+
 
 public class pgm1 {
 		
